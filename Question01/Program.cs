@@ -1,4 +1,6 @@
-﻿int ArraySize = 0;
+﻿//Question 2
+//To use it, Set it as Startup Project in Solution Explorer
+int ArraySize = 0;
 int MinimumSize = 0;
 Console.Write("Input number of string to store in the Array: ");
 ArraySize = int.Parse(Console.ReadLine());
